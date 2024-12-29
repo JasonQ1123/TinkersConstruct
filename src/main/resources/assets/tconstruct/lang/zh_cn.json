@@ -38,17 +38,17 @@
   "block.tconstruct.obsidian_pane": "黑曜石板",
   "block.tconstruct.gold_bars": "金栏杆",
   "block.tconstruct.gold_bars.tooltip": "在铸件台上充当空白金质铸模",
-  
+
   "block.tconstruct.gold_platform": "金平台",
   "block.tconstruct.gold_platform.tooltip": "在铸造盆中充当空白金质铸模",
   "block.tconstruct.iron_platform": "铁平台",
   "block.tconstruct.cobalt_platform": "钴平台",
-  
+
   "block.tconstruct.copper_platform": "铜平台",
   "block.tconstruct.exposed_copper_platform": "斑驳的铜平台",
   "block.tconstruct.weathered_copper_platform": "锈蚀的铜平台",
   "block.tconstruct.oxidized_copper_platform": "氧化的铜平台",
-  
+
   "block.tconstruct.waxed_copper_platform": "涂蜡铜平台",
   "block.tconstruct.waxed_exposed_copper_platform": "斑驳的涂蜡铜平台",
   "block.tconstruct.waxed_weathered_copper_platform": "锈蚀的涂蜡铜平台",
@@ -497,7 +497,7 @@
   "fluid.tconstruct.rabbit_stew": "兔肉煲",
   "fluid.tconstruct.flowing_rabbit_stew": "流动的兔肉煲",
   "item.tconstruct.rabbit_stew_bucket": "兔肉煲桶",
-  
+
   "block.tconstruct.meat_soup_fluid": "肉汤",
   "fluid.tconstruct.meat_soup": "肉汤",
   "fluid.tconstruct.flowing_meat_soup": "流动的肉汤",
@@ -548,7 +548,7 @@
   "fluid.tconstruct.flowing_venom": "流动的毒液",
   "item.tconstruct.venom_bucket": "毒液桶",
   "item.tconstruct.venom_bottle": "毒液瓶",
-  
+
   "item.tconstruct.ichor_slime_bottle": "灵浆瓶",
 
   "_comment": "Rock",
@@ -913,13 +913,13 @@
   "item.tconstruct.earth_staff": "大地黏液手杖",
   "item.tconstruct.ichor_staff": "灵浆手杖",
   "item.tconstruct.ender_staff": "末影黏液手杖",
-  
+
   "item.tconstruct.travelers_helmet": "旅行者护目镜",
   "item.tconstruct.travelers_chestplate": "旅行者背心",
   "item.tconstruct.travelers_leggings": "旅行者裤子",
   "item.tconstruct.travelers_boots": "旅行者靴子",
   "item.tconstruct.travelers_shield": "旅行者盾牌",
-  
+
   "item.tconstruct.plate_helmet": "镶板头盔",
   "item.tconstruct.plate_chestplate": "镶板胸甲",
   "item.tconstruct.plate_leggings": "镶板护腿",
@@ -1190,7 +1190,7 @@
   "block.tconstruct.scorched_glass_pane.tooltip": "无法用于构造熔铸炉",
   "block.tconstruct.scorched_soul_glass_pane": "焦褐灵魂玻璃板",
   "block.tconstruct.scorched_soul_glass_pane.tooltip": "无法用于构造熔铸炉，但可以从中穿过。",
-  
+
   "block.tconstruct.scorched_ladder": "焦褐梯子",
   "block.tconstruct.scorched_ladder.tooltip": "可供攀爬的冶炼炉建材",
 
@@ -1473,7 +1473,7 @@
   "material.tconstruct.wood.format": "木%s",
   "material.tconstruct.wood.flavor": "伐伐伐伐伐伐伐伐伐木工！",
   "material.tconstruct.wood.encyclopedia": "每有一个木部件，工具修理效率提高50%",
-  
+
   "material.tconstruct.bamboo": "竹",
   "material.tconstruct.bamboo.flavor": "被敲竹杠了！",
   "material.tconstruct.bamboo.ranged": "拉弓时的移动速度惩罚-10%",
@@ -1934,7 +1934,7 @@
   "modifier.tconstruct.swiftstrike.5": "迅捷打击++++",
   "modifier.tconstruct.swiftstrike.flavor": "魔法！",
   "modifier.tconstruct.swiftstrike.description": "魔法般的紫色宝石让工具变得更轻巧，挥动更省力！",
-  
+
 
   "_comment": "Ranged",
 
@@ -2098,7 +2098,7 @@
   "modifier.tconstruct.wings": "羽翼",
   "modifier.tconstruct.wings.flavor": "天空属于我",
   "modifier.tconstruct.wings.description": "能够在半空中跳跃，翱翔蓝天",
-  
+
   "_comment": "Armor - leggings",
   "modifier.tconstruct.speedy": "迅捷",
   "modifier.tconstruct.speedy.flavor": "跑啊……跑啊……",
@@ -2176,7 +2176,7 @@
   "modifier.tconstruct.reflecting.flavor": "弹性盾牌",
   "modifier.tconstruct.reflecting.description": "举盾后短时间内允许反弹弹射物",
 
-  
+
   "_comment": "Abilities",
   "modifier.tconstruct.unbreakable": "不毁",
   "modifier.tconstruct.unbreakable.flavor": "冷冻封存！",
@@ -2212,7 +2212,7 @@
   "modifier.tconstruct.reach": "长臂",
   "modifier.tconstruct.reach.flavor": "心灵促动！",
   "modifier.tconstruct.reach.description": "手持该工具时延伸触及距离，以便进行更远的采掘与攻击！",
-  
+
   "_comment": "Block transform",
   "modifier.tconstruct.pathing": "铺路",
   "modifier.tconstruct.pathing.flavor": "铺道路，走天下！",
@@ -2642,7 +2642,7 @@
   "_comment": "Internal modifiers",
   "modifier.tconstruct.overslime_friend": "黏液之友",
   "modifier.tconstruct.snow_boots": "雪地靴",
-  
+
 
   "_comment": "Internal effects",
   "effect.tconstruct.bleeding": "流血",
@@ -2835,7 +2835,7 @@
   "recipe.tconstruct.tool_repair.fully_repaired": "工具完好无损",
   "recipe.tconstruct.damaging.broken": "工具已损坏",
   "recipe.tconstruct.overslime.at_capacity": "工具已无更多空间来容纳黏液覆层",
-  
+
   "recipe.tconstruct.swappable.already_present": "工具已经拥有了%2$s变种的%1$s",
 
   "gui.tconstruct.modifier_worktable": "强化调配台",
@@ -2874,7 +2874,7 @@
   "recipe.tconstruct.enchantment_converting.description.keep": "从附魔书中选取给定类型的强化并提取为强化水晶。该物品的魔咒将会移除并返还。",
   "recipe.tconstruct.enchantment_converting.no_enchantments": "物品没有任何可提取的魔咒",
   "recipe.tconstruct.enchantment_converting.too_few": "需要更多的配方物品以转换更高等级的魔咒",
-  
+
   "recipe.tconstruct.part_swapping.too_many_parts": "该工具无法在此替换部件",
 
   "recipe.tconstruct.modifier.not_enough_slot": "至少需要1个%s槽来添加该强化",
@@ -2889,7 +2889,7 @@
   "recipe.tconstruct.tool_recycling.info": "从组装此工具的工具部件中选择你想回收的一个。根据工具剩余的耐久度多少，甚至有可能回收第2个工具部件。",
   "recipe.tconstruct.tool_recycling.no_modifiers": "加持升级或能力的工具无法被回收，你必须先将它们移除。",
 
-  
+
   "_comment": "GUIs Messages",
 
   "gui.tconstruct.caption": "说明",
@@ -3046,7 +3046,7 @@
 
   "jei.tconstruct.modifier_worktable.title": "强化调配台",
 
-  
+
   "_comment": "Tool Advancements",
   "advancements.tconstruct.tools.materials_and_you.title": "工匠练手",
   "advancements.tconstruct.tools.materials_and_you.description": "制作一本《材料与你》，它将为你打开匠魂的大门",
@@ -3135,7 +3135,44 @@
   "advancements.tconstruct.world.slime_collector.title": "集黏者",
   "advancements.tconstruct.world.slime_collector.description": "获取所有五种黏液球",
   "advancements.tconstruct.world.piggybackpack.title": "肩驮猪",
-  "advancements.tconstruct.world.piggybackpack.description": "用肩驮架驮起一只猪"
-
+  "advancements.tconstruct.world.piggybackpack.description": "用肩驮架驮起一只猪",
+  "item.tconstruct.melting_pan": "烹饪锅",
+  "item.tconstruct.battlesign": "战斗牌子",
+  "item.tconstruct.war_pick": "战争镐",
+  "death.attack.tconstruct.piercing": "%1$s 被 %2$s 刺穿了",
+  "death.attack.tconstruct.piercing.item": "%1$s 被 %2$s 用 %3$s 刺穿了",
+  "death.attack.tconstruct.fluid.fire": "%1$s 被 %2$s 烧伤致死",
+  "death.attack.tconstruct.fluid.fire.item": "%1$s 被 %2$s 用 %3$s 烧伤致死",
+  "death.attack.tconstruct.fluid.magic": "%1$s 被 %2$s 击中了要害",
+  "death.attack.tconstruct.fluid.magic.item": "%1$s 被 %2$s 用 %3$s 击中了要害",
+  "death.attack.tconstruct.fluid.water": "%1$s 被 %2$s 淹死了",
+  "death.attack.tconstruct.fluid.water.item": "%1$s 被 %2$s 用 %3$s 淹死了",
+  "material.tconstruct.wood.cherry": "樱桃木",
+  "modifier.tconstruct.trim": "护甲装饰",
+  "modifier.tconstruct.trim.formatted": "%s（%s）",
+  "modifier.tconstruct.trim.flavor": "复杂的装饰细节！",
+  "modifier.tconstruct.trim.description": "使用昂贵的图案进行额外的护甲装饰",
+  "modifier.tconstruct.smelting": "烹饪",
+  "modifier.tconstruct.smelting.flavor": "炒的焦香酥脆的培根！",
+  "modifier.tconstruct.smelting.description": "使用工具会在内部烹饪物品！按住蹲伏键交互可填充工具。",
+  "armor_stat.tconstruct.critical_damage": "暴击伤害",
+  "armor_stat.tconstruct.good_effect_duration": "增益效果持续时间",
+  "armor_stat.tconstruct.bad_effect_duration": "减益效果持续时间",
+  "armor_stat.tconstruct.crouch_damage": "蹲伏伤害",
+  "armor_stat.tconstruct.explosion_knockback": "爆炸击退",
+  "itemGroup.tconstruct.tables": "匠魂 | 工作台",
+  "itemGroup.tconstruct.fluids": "匠魂 | 流体",
+  "recipe.tconstruct.modifier.armor_trim.invalid_material": "%s 不是有效的装饰材料，这通常表示一个无效的标签",
+  "recipe.tconstruct.modifier.armor_trim.invalid_pattern": "%s 不是有效的装饰图案，这通常表示一个无效的标签",
+  "command.tconstruct.material_stat.not_found": "未知的材料属性 %s",
+  "command.tconstruct.materials.success.set.single": "将 %s 的物品的材料设置为 %s",
+  "command.tconstruct.materials.success.set.multiple": "将 %s 实体的材料设置为 %s",
+  "command.tconstruct.materials.failure.invalid_index": "索引 %s 对 %s 的物品而言过大",
+  "command.tconstruct.materials.success.stats.default": "%s 的默认属性：",
+  "command.tconstruct.materials.success.stats.material": "%s 的 %s 属性：",
+  "command.tconstruct.materials.failure.invalid_stats": "未注册 %s 的 %s 属性",
+  "command.tconstruct.materials.success.traits.default": "%s 的默认特性：",
+  "command.tconstruct.materials.success.traits.stat": "%s 的 %s 特性：",
+  "command.tconstruct.materials.failure.no_traits": "没有特性"
 }
 
